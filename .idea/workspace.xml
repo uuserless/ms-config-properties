@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8006642-d36c-4518-a6e4-f8c4fc962ee3" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/dev/client-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/master/client-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/test/client-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-config-properties.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-service/dev/zuul-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-service/master/zuul-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-service/test/zuul-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-service/dev/book-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/book-service/dev/book-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-service/master/book-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/book-service/master/book-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-service/test/book-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/book-service/test/book-service.yml" afterDir="false" />
-    </list>
+    <list default="true" id="d8006642-d36c-4518-a6e4-f8c4fc962ee3" name="Changes" comment="add services" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,10 +35,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/book-service/test" />
-      <recent name="$PROJECT_DIR$/book-service/master" />
-      <recent name="$PROJECT_DIR$/config-client/test" />
-      <recent name="$PROJECT_DIR$/config-client/master" />
+      <recent name="$PROJECT_DIR$/client-service/test" />
+      <recent name="$PROJECT_DIR$/client-service/master" />
+      <recent name="$PROJECT_DIR$/zuul-service/test" />
+      <recent name="$PROJECT_DIR$/zuul-service/master" />
+      <recent name="$PROJECT_DIR$/zuul-service" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666789229344</updated>
       <workItem from="1666789230807" duration="1753000" />
-      <workItem from="1666884259745" duration="299000" />
+      <workItem from="1666884259745" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1666789756708</created>
@@ -82,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666799749805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add services">
+      <created>1666884568954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666884568954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add services" />
+    <option name="LAST_COMMIT_MESSAGE" value="add services" />
   </component>
 </project>
