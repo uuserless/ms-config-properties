@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8006642-d36c-4518-a6e4-f8c4fc962ee3" name="Changes" comment="add book-service-update">
+    <list default="true" id="d8006642-d36c-4518-a6e4-f8c4fc962ee3" name="Changes" comment="add create-check-store.services">
+      <change afterPath="$PROJECT_DIR$/config-server/dev/config-server.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/master/config-server.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/test/config-server.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/uuserless/Documents/lessons.java/ms-config-properties/book-service-update&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/uuserless/Documents/lessons.java/ms-config-properties/config-server"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/store-book-service" />
+      <recent name="$PROJECT_DIR$/creation-book-service" />
+      <recent name="$PROJECT_DIR$/check-book-service" />
       <recent name="$PROJECT_DIR$/book-service-update" />
       <recent name="$PROJECT_DIR$/client-service/test" />
-      <recent name="$PROJECT_DIR$/client-service/master" />
-      <recent name="$PROJECT_DIR$/zuul-service/test" />
-      <recent name="$PROJECT_DIR$/zuul-service/master" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +62,8 @@
       <workItem from="1666884259745" duration="323000" />
       <workItem from="1666886946213" duration="108000" />
       <workItem from="1666898220883" duration="934000" />
+      <workItem from="1667401910616" duration="282000" />
+      <workItem from="1667422684966" duration="896000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1666789756708</created>
@@ -88,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666887046122</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add create-check-store.services">
+      <created>1667402184379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667402184379</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +121,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add services" />
     <MESSAGE value="add book-service-update" />
-    <option name="LAST_COMMIT_MESSAGE" value="add book-service-update" />
+    <MESSAGE value="add create-check-store.services" />
+    <option name="LAST_COMMIT_MESSAGE" value="add create-check-store.services" />
   </component>
 </project>
